@@ -1,0 +1,15 @@
+Is it a mammal?
+Was it used as a primary means of transportation before cars?
+Horse
+#
+#
+Dog
+#
+#
+Does it have scales?
+Lizard
+#
+#
+Crow
+#
+#
